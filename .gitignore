@@ -1,0 +1,9 @@
+# La boîte à outils (chacun la recrée avec requirements.txt)
+venv/
+
+# Les images FFHQ (à télécharger soi-même, voir le README)
+data/
+*.zip
+
+# Fichiers temporaires de Python
+__pycache__/
